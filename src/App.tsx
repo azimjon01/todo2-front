@@ -1,4 +1,3 @@
-// src/App.tsx
 import React from "react";
 import { TodoList } from "./components/TodoList";
 import { GlobalStyles } from "./styles/GlobalStyles";
